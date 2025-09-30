@@ -31,7 +31,6 @@ I am **Md Shihab Hossain Shifat**, a DevOps and Cloud Engineer 🚀 from 🇧�
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="40" alt="Oracle 19c"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="40" alt="Zabbix"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nagios_logo.svg/320px-Nagios_logo.svg.png" height="40" alt="Nagios"/>
 </p>
 
 
