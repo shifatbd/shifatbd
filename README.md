@@ -19,16 +19,19 @@ I am **Md Shihab Hossain Shifat**, a DevOps and Cloud Engineer 🚀 from 🇧�
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
 </p>
 
 ---
 
 ### 🧩 Monitoring & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50" alt="MSSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="50" alt="Oracle 19c"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" alt="MSSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="40" alt="Oracle 19c"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="40" alt="Zabbix"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nagios_logo.png" height="40" alt="Nagios"/>
 </p>
 
 
